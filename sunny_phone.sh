@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo " Sun's out, phones out! ️ What phone number are we tracking down today?"
+echo "Sun's out, phones out! ️ What phone number are we researching today?"
 
 read temp 
 
